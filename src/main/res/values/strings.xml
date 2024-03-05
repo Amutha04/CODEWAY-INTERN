@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">To Do App</string>
+    <string name="head_name">Tasks</string>
+    <string name="v1">New Task</string>
+    <string name="v2">Save</string>
+    <string name="v3">This is an Sample Task inside the application</string>
+</resources>
